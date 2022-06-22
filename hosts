@@ -1,0 +1,6 @@
+[SWITCH]
+HOSTNAME_SWITCH01 ansible_host=10.0.0.10
+
+[SWITCH:vars]
+ansible_user=admin
+ansible_network_os=cisco.ios.ios
