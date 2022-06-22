@@ -1,6 +1,4 @@
 # UpdateIOSCisco_Ansible
-
-
 Repositorio criado para auxiliar no update do IOS de Switchs CISCO via Ansible.
 
 Considerar que deve ser incluido os switchs Cisco 2960 que serão atualizados no arquivo "/etc/ansible/hosts, grupo "SWITCH".
